@@ -1,0 +1,14 @@
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\bin\Debug\net9.0\char_and_exception.exe
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\bin\Debug\net9.0\char_and_exception.deps.json
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\bin\Debug\net9.0\char_and_exception.runtimeconfig.json
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\bin\Debug\net9.0\char_and_exception.dll
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\bin\Debug\net9.0\char_and_exception.pdb
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\char_and_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\char_and_exception.AssemblyInfoInputs.cache
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\char_and_exception.AssemblyInfo.cs
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\char_and_exception.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\char_and_exception.dll
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\refint\char_and_exception.dll
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\char_and_exception.pdb
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\char_and_exception.genruntimeconfig.cache
+C:\Users\Mohamad\Desktop\Keyword VSCode\char_and_exception\obj\Debug\net9.0\ref\char_and_exception.dll
